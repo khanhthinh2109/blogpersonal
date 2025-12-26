@@ -70,7 +70,7 @@ const Footer = () => {
 
         <div className="mt-12 pt-8 border-t border-border/50 text-center">
           <p className="text-muted-foreground text-sm">
-            © 2025 DevBlog. Personal Blog - Made with Khanh Thinh ❤️
+            © 2025 DevBlog. Personal Blog - Made by Khanh Thinh ❤️
           </p>
         </div>
       </div>
