@@ -91,7 +91,7 @@ const Profile = () => {
                 {/* CTA Buttons */}
                 <div className="flex items-center justify-center md:justify-start gap-4 mt-8 animate-fade-in" style={{ animationDelay: '400ms' }}>
                   <Button variant="hero" asChild>
-                    <a href="mailto:student@university.edu">
+                    <a href="mailto:luongkhanhthinh33@gmail.com">
                       <Mail className="w-4 h-4" />
                       Liên hệ
                     </a>
@@ -236,12 +236,12 @@ const Profile = () => {
                 <Mail className="w-5 h-5 text-primary" />
                 <div className="text-left">
                   <div className="text-xs text-muted-foreground">Email</div>
-                  <div className="text-sm text-foreground">luongkhanhthinh33@gmail.com</div>
+                  <div className="text-sm text-foreground">mailto:luongkhanhthinh33@gmail.com</div>
                 </div>
               </a>
 
               <a 
-                href="https://github.com"
+                href="https://github.com/khanhthinh2109"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 px-6 py-4 rounded-xl bg-gradient-card border border-border/50 hover:border-primary/30 transition-smooth w-full sm:w-auto"

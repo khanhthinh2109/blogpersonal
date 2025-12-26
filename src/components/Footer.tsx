@@ -57,7 +57,7 @@ const Footer = () => {
               </li>
               <li>
                 <a 
-                  href="luongkhanhthinh33@gmail.com"
+                  href="mailto:luongkhanhthinh33@gmail.com"
                   className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-smooth text-sm"
                 >
                   <Mail className="w-4 h-4" />
