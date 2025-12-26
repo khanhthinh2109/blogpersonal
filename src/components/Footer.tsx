@@ -14,7 +14,7 @@ const Footer = () => {
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Blog chia sẻ kiến thức lập trình Java và JavaScript. 
-              Đồ án học phần - 2025.
+              Personal Blog - 2025.
             </p>
           </div>
 
