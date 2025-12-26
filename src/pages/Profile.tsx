@@ -15,7 +15,7 @@ const Profile = () => {
 
   const timeline = [
     {
-      year: '2024',
+      year: '2025',
       title: 'Đồ án Blog cá nhân',
       description: 'Xây dựng blog chia sẻ kiến thức lập trình với Hugo SSG',
       icon: BookOpen,
@@ -34,7 +34,7 @@ const Profile = () => {
     },
     {
       year: '2021',
-      title: 'Nhập học Đại học',
+      title: 'Ho Chi Minh City University of Technology',
       description: 'Bắt đầu hành trình học Công nghệ thông tin',
       icon: GraduationCap,
     },
@@ -67,7 +67,7 @@ const Profile = () => {
               {/* Info */}
               <div className="text-center md:text-left">
                 <h1 className="font-mono text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-3 animate-fade-in">
-                  Tên Sinh Viên
+                  Lương Khánh Thịnh
                 </h1>
                 <p className="text-primary font-mono text-lg mb-4 animate-fade-in" style={{ animationDelay: '100ms' }}>
                   Web Developer | Student
@@ -84,7 +84,7 @@ const Profile = () => {
                   </span>
                   <span className="flex items-center gap-2">
                     <GraduationCap className="w-4 h-4 text-primary" />
-                    Đại học XYZ
+                    Đại học Công nghệ TP.HCM
                   </span>
                 </div>
 
@@ -122,7 +122,7 @@ const Profile = () => {
                 </h2>
                 <div className="space-y-4 text-muted-foreground leading-relaxed">
                   <p>
-                    Xin chào! Tôi là sinh viên ngành Công nghệ thông tin, hiện đang theo học tại Đại học XYZ.
+                    Xin chào! Tôi là sinh viên ngành Công nghệ thông tin, hiện đang theo học tại Đại học Công nghệ TP.HCM.
                   </p>
                   <p>
                     Đam mê của tôi là lập trình web và phát triển phần mềm. Tôi đặc biệt yêu thích Java và JavaScript - hai ngôn ngữ mạnh mẽ cho backend và frontend development.
@@ -236,7 +236,7 @@ const Profile = () => {
                 <Mail className="w-5 h-5 text-primary" />
                 <div className="text-left">
                   <div className="text-xs text-muted-foreground">Email</div>
-                  <div className="text-sm text-foreground">student@university.edu</div>
+                  <div className="text-sm text-foreground">luongkhanhthinh33@gmail.com</div>
                 </div>
               </a>
 
@@ -249,7 +249,7 @@ const Profile = () => {
                 <Github className="w-5 h-5 text-primary" />
                 <div className="text-left">
                   <div className="text-xs text-muted-foreground">GitHub</div>
-                  <div className="text-sm text-foreground">github.com/username</div>
+                  <div className="text-sm text-foreground">github.com/khanhthinh2109</div>
                 </div>
               </a>
             </div>

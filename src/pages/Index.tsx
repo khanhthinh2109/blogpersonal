@@ -25,12 +25,12 @@ const Index = () => {
           {/* Badge */}
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20 mb-8 animate-fade-in">
             <Coffee className="w-4 h-4 text-primary" />
-            <span className="text-sm text-primary font-mono">Đồ án học phần 2024</span>
+            <span className="text-sm text-primary font-mono">Đồ án học phần 2025</span>
           </div>
 
           {/* Main Title */}
           <h1 className="font-mono text-4xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in" style={{ animationDelay: '100ms' }}>
-            <span className="text-foreground">Xin chào, tôi là </span>
+            <span className="text-foreground">Xin chào, tôi là Lương Khánh Thịnh</span>
             <span className="text-gradient">Developer</span>
           </h1>
 

@@ -14,7 +14,7 @@ const Footer = () => {
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Blog chia sẻ kiến thức lập trình Java và JavaScript. 
-              Đồ án học phần - 2024.
+              Đồ án học phần - 2025.
             </p>
           </div>
 
@@ -70,7 +70,7 @@ const Footer = () => {
 
         <div className="mt-12 pt-8 border-t border-border/50 text-center">
           <p className="text-muted-foreground text-sm">
-            © 2024 DevBlog. Đồ án học phần - Made with ❤️
+            © 2025 DevBlog. Đồ án học phần - Made with ❤️
           </p>
         </div>
       </div>
