@@ -46,7 +46,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a 
-                  href="https://github.com" 
+                  href="https://github.com/khanhthinh2109" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-smooth text-sm"
@@ -57,7 +57,7 @@ const Footer = () => {
               </li>
               <li>
                 <a 
-                  href="mailto:contact@devblog.com"
+                  href="luongkhanhthinh33@gmail.com"
                   className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-smooth text-sm"
                 >
                   <Mail className="w-4 h-4" />
