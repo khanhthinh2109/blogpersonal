@@ -34,7 +34,7 @@ const Index = () => {
               Xin chào, tôi là Lương Khánh Thịnh,
             </span>
             <span className="mx-4 text-gradient">
-               Developer in the Future
+               Web Developer 
             </span>
           </h1>
 
