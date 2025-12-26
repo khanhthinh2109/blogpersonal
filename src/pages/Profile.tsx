@@ -128,7 +128,7 @@ const Profile = () => {
                     Đam mê của tôi là lập trình web và phát triển phần mềm. Tôi đặc biệt yêu thích Java và JavaScript - hai ngôn ngữ mạnh mẽ cho backend và frontend development.
                   </p>
                   <p>
-                    Blog này là đồ án học phần của tôi, nơi tôi chia sẻ những kiến thức đã học được trong quá trình học tập và nghiên cứu.
+                    Blog này là nơi tôi chia sẻ những kiến thức đã học được trong quá trình học tập và nghiên cứu.
                   </p>
                 </div>
               </div>
