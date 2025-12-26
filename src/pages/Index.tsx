@@ -31,7 +31,7 @@ const Index = () => {
           {/* Main Title */}
           <h1 className="font-mono text-4xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in" style={{ animationDelay: '100ms' }}>
             <span className="text-foreground">
-              Xin chào, tôi là Lương Khánh Thịnh, một
+              Xin chào,tôi là Lương Khánh Thịnh,một 
             </span>
             <span className="mx-4 text-gradient">
               Developer
