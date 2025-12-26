@@ -230,13 +230,13 @@ const Profile = () => {
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <a 
-                href="mailto:student@university.edu"
+                href="mailto:luongkhanhthinh33@gmail.com"
                 className="flex items-center gap-3 px-6 py-4 rounded-xl bg-gradient-card border border-border/50 hover:border-primary/30 transition-smooth w-full sm:w-auto"
               >
                 <Mail className="w-5 h-5 text-primary" />
                 <div className="text-left">
                   <div className="text-xs text-muted-foreground">Email</div>
-                  <div className="text-sm text-foreground">mailto:luongkhanhthinh33@gmail.com</div>
+                  <div className="text-sm text-foreground">luongkhanhthinh33@gmail.com</div>
                 </div>
               </a>
 
