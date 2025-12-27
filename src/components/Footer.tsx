@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="space-y-4">
             <Link to="/" className="flex items-center gap-2">
               <Code2 className="w-6 h-6 text-primary" />
-              <span className="font-mono font-bold">DevBlog</span>
+              <span className="font-mono font-bold">Thinh Blog</span>
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Blog chia sẻ kiến thức lập trình Java và JavaScript. 

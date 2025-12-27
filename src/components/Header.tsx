@@ -26,7 +26,7 @@ const Header = () => {
             className="flex items-center gap-2 text-foreground hover:text-primary transition-smooth"
           >
             <Code2 className="w-8 h-8 text-primary" />
-            <span className="font-mono font-bold text-lg">DevBlog</span>
+            <span className="font-mono font-bold text-lg">Thinh Blog</span>
           </Link>
 
           {/* Desktop Navigation */}
