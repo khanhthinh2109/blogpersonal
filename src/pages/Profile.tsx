@@ -59,7 +59,7 @@ const Profile = () => {
                     <img
                       src="/avatar.png"
                       alt="Lương Khánh Thịnh"
-                      className="w-full h-full object-cover object-[50%_25%] rounded-full"
+                      className="w-full h-full object-cover object-[50%_15%] rounded-full"
                     />
                   </div>
                 </div>
