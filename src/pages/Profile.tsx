@@ -21,19 +21,19 @@ const Profile = () => {
       icon: BookOpen,
     },
     {
-      year: '2023',
+      year: '2024',
       title: 'Học JavaScript nâng cao',
       description: 'Tìm hiểu ES6+, Async/Await, React và các framework hiện đại',
       icon: Code2,
     },
     {
-      year: '2022',
+      year: '2023',
       title: 'Bắt đầu học Java',
       description: 'Làm quen với OOP, Collections Framework, Exception Handling',
       icon: Coffee,
     },
     {
-      year: '2021',
+      year: '2022',
       title: 'Ho Chi Minh City University of Technology',
       description: 'Bắt đầu hành trình học Công nghệ thông tin',
       icon: GraduationCap,
