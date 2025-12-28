@@ -14,7 +14,7 @@ const certificates: Certificate[] = [
   {
     title: 'Các chứng chỉ trên Credly',
     issuer: 'Credly',
-    date: '2024',
+    date: '2025',
     url: 'https://www.credly.com/users/thinh-luong-khanh',
     description:
       'Trang tổng hợp các chứng chỉ và huy hiệu chuyên môn của tôi trên nền tảng Credly.',
