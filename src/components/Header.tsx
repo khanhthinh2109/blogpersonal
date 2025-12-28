@@ -9,6 +9,8 @@ const Header = () => {
   const navLinks = [
     { path: '/', label: 'Trang chủ' },
     { path: '/blog', label: 'Blog' },
+    { path: '/articles', label: 'Bài viết' },
+    { path: '/certificates', label: 'Chứng chỉ' },
     { path: '/profile', label: 'Profile' },
   ];
 
