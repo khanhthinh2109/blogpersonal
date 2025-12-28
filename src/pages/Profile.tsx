@@ -55,8 +55,12 @@ const Profile = () => {
               {/* Avatar */}
               <div className="relative">
                 <div className="w-40 h-40 md:w-48 md:h-48 rounded-full bg-gradient-to-br from-primary to-cyan-400 p-1 animate-fade-in">
-                  <div className="w-full h-full rounded-full bg-card flex items-center justify-center">
-                    <Code2 className="w-16 h-16 md:w-20 md:h-20 text-primary" />
+                  <div className="w-full h-full rounded-full bg-card overflow-hidden">
+                    <img
+                      src="/avatar.png"
+                      alt="Lương Khánh Thịnh"
+                      className="w-full h-full object-cover rounded-full"
+                    />
                   </div>
                 </div>
                 <div className="absolute -bottom-2 -right-2 w-12 h-12 rounded-full bg-primary flex items-center justify-center animate-glow-pulse">
